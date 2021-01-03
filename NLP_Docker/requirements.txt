@@ -1,0 +1,16 @@
+#flask
+#scikit-learn==0.22.1
+#stemming
+#sklearn
+#mod-wsgi
+#flagger
+numpy==1.18
+scipy==1.1.0
+scikit-learn==0.21.3
+flask
+Finance
+Bokeh
+yfinance
+pandas-datareader
+flasgger
+mod_wsgi

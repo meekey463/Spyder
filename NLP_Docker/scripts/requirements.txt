@@ -1,0 +1,8 @@
+flask
+scikit-learn==0.22.1
+stemming
+sklearn
+mod-wsgi
+flasgger
+zipfile36
+mod_wsgi
